@@ -34,24 +34,14 @@ library(vitae)
 
 # **RESEARCH INTERESTS**
 
-  + _Survival Analysis, Statistical Genomics, Clinical Trials and Bayesian Analysis_
+  + _Machine Learning Modelling, Survival Analysis, Statistical Genomics_
 
 # **EDUCATION**
 
-```{r, include=FALSE}
-#*McGill University* \hfill _Quebec, Canada_
-
-#  **Ph.D.** in  Biostatistics  \hfill Sept. 2024 - Ongoing
-```
-
 *University of Bremen* \hfill _Bremen, Germany_
 
-  + **M.Sc** in Medical Biometry/Biostatistics \hfill Sept. 2022
+  + **M.Sc** in Medical Biometry/Biostatistics \hfill Sept. 2022 - Ongoing
   
-*University of Potsdam* \hfill _Potsdam, Germany_
-
-  + **M.Sc** in Bioinformatics \hfill Sept. 2020 - July 2022
-
 *Jomo Kenyatta University of Agriculture and Technology* \hfill _Nairobi, Kenya_
 
   + **B.Sc** in Biostatistics \hfill Sept. 2014 - Aug. 2018
@@ -142,11 +132,10 @@ with R Markdown (advanced dplyr and ggplot2 package applications)
   _**Other (non-R) Technical Skills**_
   
   + SAS
-  + Python
   + MySQL
-  + Excel
-  + Matlab
   + Stata
+  + Python
+  + Matlab
   + LATEX
   + Powerpoint
   + Linux
@@ -157,5 +146,5 @@ with R Markdown (advanced dplyr and ggplot2 package applications)
   _**Spoken Languages**_
   
   + English (native)
-  + Deutsche (A2)
+  + Deutsch (A2)
   + Swahili (native)
