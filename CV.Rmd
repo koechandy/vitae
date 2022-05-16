@@ -3,6 +3,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
+    keep_tex: TRUE
 geometry: margin=1in
 
 title: "CV"
