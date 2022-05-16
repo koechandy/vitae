@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.8)  8 MAY 2022 14:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.8)  15 MAY 2022 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -469,10 +469,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 9.37807pt on input line 120.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.29405pt on input line 120.
-LaTeX Font Info:    Trying to load font information for U+fontawesomethree on input line 120.
-(/home/andrew/.TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
-File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
-) [1
+[1
 
 {/home/andrew/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] 
 AED: lastpage setting LastPage
@@ -481,18 +478,18 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 116327EFDBFC5AB5542F5E27A600B0E6;850.
  ) 
 Here is how much of TeX's memory you used:
- 13402 strings out of 480260
- 205835 string characters out of 5894243
+ 13391 strings out of 480260
+ 205466 string characters out of 5894243
  514727 words of memory out of 5000000
- 31077 multiletter control sequences out of 15000+600000
- 505808 words of font info for 86 fonts, out of 8000000 for 9000
+ 31070 multiletter control sequences out of 15000+600000
+ 505630 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  70i,12n,76p,1191b,403s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/home/andrew/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/home/andrew/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc} </home/andrew/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk>{/home/andrew/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</home/andrew/.TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></home/andrew/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></home/andrew/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/andrew/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></home/andrew/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/andrew/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (3 pages, 107148 bytes).
+{/home/andrew/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/andrew/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk>{/home/andrew/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</home/andrew/.TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></home/andrew/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></home/andrew/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/andrew/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></home/andrew/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/andrew/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on CV.pdf (3 pages, 107752 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 129 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
  24 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -13,8 +13,8 @@ address: "Forststrasse 48 · 14471 · Potsdam, Germany"
 fontawesome: yes
 linkedin: andrewkoech
 email: akoech@gmx.com
-#github: AndrewKoech
-twitter: koechAndre
+github: koechandy
+#twitter: koechAndre
 phone: "+49 1 777 892 226"
 updated: no
 
@@ -34,7 +34,7 @@ library(vitae)
 
 # **RESEARCH INTERESTS**
 
-  + _Machine Learning Modelling, Survival Analysis, Statistical Genomics_
+  + _Survival Analysis, Statistical Genomics, Machine Learning Modelling_
 
 # **EDUCATION**
 
@@ -65,7 +65,7 @@ library(vitae)
   + Prepare tables and graphs to present clinical data and results.
   + Work with investigators to formalize analysis plans and reporting specifications.
   + Develop statistical analysis plans and write program code to analyze data using SAS/R or Stata.
-  + Assist in the preparation of clinical trial documents, and responses to requests from the local Institutional Review Board, and other health authorities.
+  + Preparation of clinical trial documents, and responses to requests from the local Institutional Review Board, and other health authorities.
 
 *AMPATH Oncology Institute* \hfill _Eldoret, Kenya_
 
@@ -131,20 +131,19 @@ with R Markdown (advanced dplyr and ggplot2 package applications)
  
   _**Other (non-R) Technical Skills**_
   
-  + SAS
   + MySQL
   + Stata
-  + Python
-  + Matlab
-  + LATEX
-  + Powerpoint
   + Linux
   + Windows
+  
+  _**Certifications**_
+  
+  + SAS Certified Specialist: Base Programming Using SAS 9.4
 
 # **NON-TECHNICAL SKILLS**
 
   _**Spoken Languages**_
   
   + English (native)
-  + Deutsch (A2)
+  + Deutsche (A2)
   + Swahili (native)
