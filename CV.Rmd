@@ -15,7 +15,6 @@ fontawesome: yes
 linkedin: andrewkoech
 email: akoech@gmx.com
 github: koechandy
-#twitter: koechAndre
 phone: "+49 1 777 892 226"
 updated: no
 
@@ -23,7 +22,7 @@ keywords: R Markdown, academic CV, template
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
-fontsize: 12pt
+fontsize: 12.5pt
 linkcolor: blue
 urlcolor: blue
 ---
@@ -35,7 +34,7 @@ library(vitae)
 
 # **RESEARCH INTERESTS**
 
-  + _Survival Analysis, Statistical Genomics, Machine Learning Modelling_
+  + _Clinical Trials, Machine Learning Modelling, Survival Analysis studies, Statistical Genomics in Oncology_
 
 # **EDUCATION**
 
@@ -58,7 +57,7 @@ library(vitae)
 
 *International Cancer Institute* \hfill _Eldoret, Kenya_
 
-  **Data Officer** \hfill Aug. 2019 - Apr. 2021
+  **Data Officer** \hfill Aug. 2019 - Nov. 2020
   
   + Design surveys to assess health issues in non-communicable diseases.
   + Prepare articles for publication and presentation at professional International conferences.
@@ -126,9 +125,9 @@ Income Country—a Pilot Project in Kenya.” 6 (July):58–58.
   _**R for Everything**_
   
   + Data prepreparation (cleaning and wrangling) and statistical analysis/exploratory visualization
-with R Markdown (advanced dplyr and ggplot2 package applications)
-  + Reproducible and replicable presentation and paper generation with R Markdown
-  + Version control using Git and Github with Rstudio
+with R Markdown.
+  + Reproducible and replicable presentation and paper generation with R Markdown.
+  + Version control using Git and Github with Rstudio.
  
   _**Other (non-R) Technical Skills**_
   
@@ -137,9 +136,10 @@ with R Markdown (advanced dplyr and ggplot2 package applications)
   + Linux
   + Windows
   
-  _**Certifications**_
-  
-  + SAS Certified Specialist: Base Programming Using SAS 9.4
+  <!-- _**Certifications**_ -->
+
+  <!-- + SAS Certified Specialist: Base Programming Using SAS 9.4 -->
+  <!-- + SAS Certified Clinical Trials Programmer Using SAS 9.4 -->
 
 # **NON-TECHNICAL SKILLS**
 
