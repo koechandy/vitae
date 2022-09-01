@@ -1,0 +1,366 @@
+\documentclass[13pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Koech Andrew - CV }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Koech Andrew:  CV (Curriculum Vitae)},
+            pdfauthor={Koech Andrew},
+            pdfkeywords={R Markdown, academic CV, template},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Make AP style (kinda) dates for the updated/today field
+
+\usepackage{datetime}
+\newdateformat{apstylekinda}{%
+  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+\begin{document}
+
+
+\centerline{\huge \bf Koech Andrew}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Masters Fellow, University of Bremen}
+\moveleft.5\hoffset\centerline{Spittaler Strasse 1A · 28359 · Bremen,
+Germany}
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:koech@uni-bremen.de}{\nolinkurl{koech@uni-bremen.de}}} \hspace{1 mm}  \faPhone \hspace{1 mm}  +49
+1 777 892
+226  \hspace{1 mm}  \faGithub \hspace{1 mm} \href{http://github.com/koechandy}{\tt koechandy} \hspace{1 mm}      } 
+
+\vspace{2 mm}
+
+\hrule
+
+
+\hypertarget{research-interests}{%
+\section{\texorpdfstring{\textbf{RESEARCH
+INTERESTS}}{RESEARCH INTERESTS}}\label{research-interests}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Clinical Trials, Machine Learning Modelling, Survival Analysis
+  studies, Statistical Genomics in Oncology}
+\end{itemize}
+
+\hypertarget{education}{%
+\section{\texorpdfstring{\textbf{EDUCATION}}{EDUCATION}}\label{education}}
+
+\emph{University of Bremen} \hfill \emph{Bremen, Germany}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{M.Sc} in Medical Biometry/Biostatistics \hfill Oct.~2022 -
+  Sept.~2024
+\end{itemize}
+
+\emph{University of Potsdam} \hfill \emph{Potsdam, Germany}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{M.Sc} in Bioinformatics \hfill Oct.~2020 - Not Completed
+\end{itemize}
+
+\emph{Jomo Kenyatta University of Agriculture and Technology}
+\hfill \emph{Nairobi, Kenya}
+
+\begin{itemize}
+\item
+  \textbf{B.Sc} in Biostatistics \hfill Sept.~2014 - Aug.~2018
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ``Spatial Analysis of Child Mortality in Kenya''
+  \end{itemize}
+\end{itemize}
+
+\emph{Terige Secondary School} \hfill \emph{Lessos, Kenya}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Kenya Certificate of Secondary Education} \hfill Jan 2010 -
+  Nov.~2013
+\end{itemize}
+
+\hypertarget{employment}{%
+\section{\texorpdfstring{\textbf{EMPLOYMENT}}{EMPLOYMENT}}\label{employment}}
+
+\emph{International Cancer Institute} \hfill \emph{Eldoret, Kenya}
+
+\textbf{Data Officer} \hfill Aug.~2019 - Nov.~2020
+
+\begin{itemize}
+\tightlist
+\item
+  Designed surveys to assess health issues in non-communicable diseases.
+\item
+  Prepared five articles for publication and presentation at local and
+  international scientific conferences.
+\item
+  Wrote three research proposals or grant applications for submission to
+  Pfizer and Novartis.
+\item
+  Prepared tables, graphs and listings to present clinical results.
+\item
+  Worked with investigators to formalize analysis plans and reporting
+  specifications.
+\item
+  Develop statistical analysis plans and write program code to analyze
+  data using SAS/R or Stata.
+\item
+  Prepared and submitted clinical trial documents for review of two
+  Norvatis clinical trials, and responded to comments from the KEMRI
+  Review Board.
+\end{itemize}
+
+\emph{AMPATH Oncology Institute} \hfill \emph{Eldoret, Kenya}
+
+\textbf{Research Assistant} \hfill Sept.~2018 - Jul.~2019
+
+\begin{itemize}
+\tightlist
+\item
+  Oversaw registration of patients for cervical and breast cancer
+  screening.
+\item
+  Conducted random checks for data completeness and accuracy.
+\item
+  Coded data as necessary prior to data entry using master coding lists.
+\item
+  Identified appropriate statistical tests for analyzing and modeling
+  oncology data.
+\item
+  Compiled reports, charts and graphs that describe and interpret
+  findings of analyses
+\end{itemize}
+
+\emph{Kenya Medical Research Institute - Center for Public Health
+Research} \hfill \emph{Nairobi, Kenya}
+
+\textbf{Intern} \hfill Jul.~2017 - Oct.~2017
+
+\hypertarget{conference-presentations}{%
+\section{\texorpdfstring{\textbf{CONFERENCE
+PRESENTATIONS}}{CONFERENCE PRESENTATIONS}}\label{conference-presentations}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Koech, Andrew}, Emma Achieng, Edwin Odoyo, Dennis Munene, and
+  Fredrick Chite Asirwa.
+  2020.\href{https://doi.org/10.1158/1538-7755.DISP20-PO-249.}{Virtual
+  Poster} ``Abstract PO-249: Implementing Community Cervical Mass
+  Screenings in Low-Middle-Income Countries: A Project Implemented by
+  the Blueprint for Success Program, International Cancer Institute in
+  Kenya.'' Cancer Epidemiology, Biomarkers \& Prevention 29 (December):
+  PO--249.
+\item
+  Kitur, Gloria, Emmah Achieng, Fredrick Chite Asirwa, Edwin Odoyo, and
+  \textbf{Andrew Koech}.
+  2020.\href{https://doi.org/10.1158/1538-7755.DISP20-PO-028.}{Virtual
+  Poster} ``Abstract PO-028: Role of Community Outreach Activities in
+  Cancer Prevention in Kenya.'' Cancer Epidemiology, Biomarkers \&
+  Prevention 29 (December): PO--028.
+\item
+  Muchiri, Anthony, Gloria Kitur, Hussein Elias, \textbf{Andrew Koech},
+  and Chite Asirwa.
+  2020.\href{https://doi.org/10.1158/1538-7755.DISP20-PO-047.}{Virtual
+  Poster} ``Abstract PO-047: The Role of Virtual Tumor Boards in
+  Improving Patient Outcomes in Rural Settings of Sub-Saharan Africa.''
+  Cancer Epidemiology, Biomarkers \& Prevention 29 (December): PO--047.
+\item
+  Sigu, Lamech, Fredrick Chite, Emma Achieng, and \textbf{Andrew Koech}.
+  2020.\href{https://doi.org/10.1200/GO.20.54000}{Virtual Poster}
+  ``Setting up Telemedicine: Internet of Things to Support Rural
+  Oncology Clinics in a Low- and Middle- Income Country---a Pilot
+  Project in Kenya.'' 6 (July):58--58.
+\item
+  \textbf{Andrew Koech}, Rose Njogu, Emma Achieng, Gloria Kitur, Chizi
+  Kiti, Chite Asirwa.``Abstract : Setting Up Tools for Collecting
+  Quality Data at The International Cancer Institute, Kenya - Learning
+  from other Cancer Institutes, Registries and Cancer
+  Clinics.''2020.\href{https://www.dropbox.com/s/lq0owvwya6dcjfh/1\%20CUGH\%202020\%20eBook_Abstracts_Global\%20Health\%20Education.pdf?dl=0}{Conference
+  canceled}.11th Annual Consortium of Universities for Global Health
+  Conference.18--20(April).
+\item
+  Kimani Peter, \textbf{Andrew Koech}, Nyambura Sarah.
+  2018.{[}Oral{]}\emph{Spatial Analysis of Child Mortality in
+  Kenya}.13th JKUAT Scientific, Technological, and Industrialization
+  Conference.15--16 (November) 2018.
+\end{enumerate}
+
+\hypertarget{workshops}{%
+\section{\texorpdfstring{\textbf{WORKSHOPS}}{WORKSHOPS}}\label{workshops}}
+
+\textbf{Survival Analysis of Cancer Epidemiology. } \hfill Nairobi,
+Kenya
+
+\emph{University of Nairobi} \hfill 21 -- 22 Oct.~2019
+
+\textbf{Advanced Biostatistical Methods: Multivariate models and Cluster
+Randomized Trials. } \hfill Eldoret, Kenya
+
+\emph{Moi University} \hfill 15 -- 18 Jul.~2019
+
+\textbf{Bayesian Biostatistics Data Analysis: Theory and Practice. }
+\hfill Nairobi, Kenya
+
+\emph{Jomo Kenyatta University of Agriculture and Technology} \hfill 19
+-- 23 Nov.~2018
+
+\hypertarget{technical-skills}{%
+\section{\texorpdfstring{\textbf{TECHNICAL
+SKILLS}}{TECHNICAL SKILLS}}\label{technical-skills}}
+
+\emph{\textbf{R for Everything}}
+
+\begin{itemize}
+\tightlist
+\item
+  Data pre-preparation (cleaning and wrangling) and statistical
+  analysis/exploratory visualization with R Markdown.
+\item
+  Reproducible and replicable presentation and paper generation with R
+  Markdown.
+\item
+  Version control using Git and Github with Rstudio.
+\end{itemize}
+
+\emph{\textbf{Other (non-R) Technical Skills}}
+
+\begin{itemize}
+\tightlist
+\item
+  SAS
+\item
+  MySQL
+\item
+  Linux
+\item
+  Windows
+\end{itemize}
+
+\hypertarget{non-technical-skills}{%
+\section{\texorpdfstring{\textbf{NON-TECHNICAL
+SKILLS}}{NON-TECHNICAL SKILLS}}\label{non-technical-skills}}
+
+\emph{\textbf{Spoken Languages}}
+
+\begin{itemize}
+\tightlist
+\item
+  Deutsche (A2)
+\item
+  English (fluent)
+\item
+  Swahili (fluent)
+\end{itemize}
+
+\hypertarget{service}{%
+\section{\texorpdfstring{\textbf{SERVICE}}{SERVICE}}\label{service}}
+
+\emph{\textbf{Society Memberships}}
+
+\begin{itemize}
+\tightlist
+\item
+  International Biometric Society - Deutsche Region (IBS-DR)
+\end{itemize}
+
+\end{document}
