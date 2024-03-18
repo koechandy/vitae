@@ -34,13 +34,15 @@ library(vitae)
 
 # **RESEARCH INTERESTS**
 
-  + _Design and Analysis of preclinical and clinical studies_
+  + _Bayesian statistics, Design and analysis of dose-response experiments, Statistical methods for clinical trials_
 
 # **EDUCATION**
 
 *University of Bremen* \hfill _Bremen, Germany_
 
   + **M.Sc** in Medical Biometry/Biostatistics \hfill Oct. 2022 - Sept. 2024
+  
+      + “A spatial analysis of local and temporal associations between area-level socio-economic factors and antibiotic prescription rates in Germany” \hfill Ongoing
   
 *Jomo Kenyatta University of Agriculture and Technology* \hfill _Nairobi, Kenya_
 
@@ -59,7 +61,7 @@ library(vitae)
   + Prepared five articles for publication and presentation at local and international scientific conferences.
   + Wrote three research proposals and grant applications for submission to Pfizer and Novartis.
   + Worked with investigators to formalize analysis plans and reporting specifications.
-  + Developed statistical analysis plans and wrote program code to analyze data using SAS/R.
+  + Developed statistical analysis plans and wrote program code to analyze data using Stata and R.
   + Collated and submitted clinical trial documents for review of two Norvatis clinical trials.
 
 *AMPATH Oncology Institute* \hfill _Eldoret, Kenya_
