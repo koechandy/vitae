@@ -34,14 +34,16 @@ library(vitae)
 
 # **RESEARCH INTERESTS**
 
-  + _Design and analysis of dose-response experiments, Quasi-Experimental methods, Statistical methods for clinical trials_
+  + _Machine Learning, Bayesian statistics, Design and analysis of dose-response experiments, Statistical methods for clinical trials_
 
 # **EDUCATION**
 
 *University of Bremen* \hfill _Bremen, Germany_
 
-  + **M.Sc** in Medical Biometry/Biostatistics \hfill Oct. 2022 - Ongoing
-
+  + **M.Sc** in Medical Biometry/Biostatistics \hfill Oct. 2022 - Mar. 2025
+      
+      + Available for an internship between September 2024 and March 2025.
+      
       + “A spatial analysis of local and temporal associations between area-level socio-economic factors and antibiotic prescription rates in Germany” \hfill Ongoing
   
 *Jomo Kenyatta University of Agriculture and Technology* \hfill _Nairobi, Kenya_
@@ -52,14 +54,11 @@ library(vitae)
   
 # **EMPLOYMENT**
 
-*DKFZ German Cancer Research Center* \hfill _Heidelberg, Deutschland_
+<!-- *DKFZ German Cancer Research Center* \hfill _Heidelberg, Deutschland_ -->
 
-  **Internship** \hfill Apr. 2024 - Aug. 2024
+<!--   **Intern** \hfill Apr. 2024 - Jul. 2024 -->
 
-  + Familiarizing with Bayesian dynamic borrowing (BDB) approaches in augmented clinical trials.
-  + Understanding the use of the robust mixture prior approach.
-  + Implementing R code for the computation of highest posterior density (HPD) intervals for the robust mixture prior.
-  + Implementing the computation of highest posterior density (HPD) intervals in R Shiny.
+<!--   + Coding of Bayesian Highest Posterior Density Intervals. -->
 
 *International Cancer Institute (ICI)* \hfill _Eldoret, Kenya_
 
@@ -68,9 +67,10 @@ library(vitae)
   + Designed surveys to assess health issues in non-communicable diseases.
   + Wrote statistical analysis plans for surveys to assess health issues in NCDs.
   + Prepared five articles for publication and presentation at local and international scientific conferences.
-  + Wrote three research proposals and grant applications for submission to Pfizer, Roche and Novartis.
-  + Developed statistical analysis plans and wrote code to analyze data using Stata and R.
-  + Collated and submitted clinical trial documents for ethical review of two Norvatis clinical trials in Sickle Cell Disease.
+  + Wrote three research proposals and grant applications for submission to Pfizer and Novartis.
+  + Worked with investigators to formalize analysis plans and reporting specifications.
+  + Developed statistical analysis plans and wrote program code to analyze data using Stata and R.
+  + Collated and submitted clinical trial documents for review of two Norvatis clinical trials.
 
 *AMPATH Oncology Institute* \hfill _Eldoret, Kenya_
 
@@ -80,7 +80,7 @@ library(vitae)
   + Conducted random checks for data completeness and accuracy.
   + Coded data as necessary prior to data entry using master coding lists.
   + Identified appropriate statistical tests for analyzing and modeling oncology data.
-  + Compiled reports, charts and graphs that describe and interpret findings of analyses.
+  + Compiled reports, charts and graphs that describe and interpret findings of analyses
 
 # **CONFERENCE PRESENTATIONS**
 
@@ -124,14 +124,14 @@ Income Country—a Pilot Project in Kenya.” 6 (July):58–58.
 
   _**R for Everything**_
   
-  + Data pre-preparation (cleaning and wrangling) and statistical analysis/exploratory visualization with R Markdown.
+  + Data pre-preparation (cleaning and wrangling) and statistical analysis/exploratory visualization
+with R Markdown.
   + Reproducible and replicable presentation and paper generation with R Markdown.
   + Version control using Git and Github with Rstudio.
  
   _**Other (non-R) Technical Skills**_
   
   + SAS
-  + Stata
   + Linux
   + Windows
   

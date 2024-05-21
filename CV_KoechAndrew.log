@@ -1,24 +1,24 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.24)  18 MAR 2024 11:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.8)  21 MAY 2024 14:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV_KoechAndrew.tex
 (./CV_KoechAndrew.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+L3 programming layer <2024-04-11>
 (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@section=\count188
-\c@subsection=\count189
-\c@subsubsection=\count190
-\c@paragraph=\count191
-\c@subparagraph=\count192
-\c@figure=\count193
-\c@table=\count194
+\c@part=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -51,14 +51,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count195
+\inf@bad=\count197
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count196
-\leftroot@=\count197
+\uproot@=\count198
+\leftroot@=\count199
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count198
-\DOTSCASE@=\count199
+\classnum@=\count266
+\DOTSCASE@=\count267
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -71,20 +71,20 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen143
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count266
+\macc@depth=\count268
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count267
+\c@MaxMatrixCols=\count269
 \dotsspace@=\muskip16
-\c@parentequation=\count268
-\dspbrk@lvl=\count269
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
 \tag@help=\toks19
-\row@=\count270
-\column@=\count271
-\maxfields@=\count272
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
 \andhelp@=\toks20
 \eqnshift@=\dimen144
 \alignsep@=\dimen145
@@ -122,56 +122,26 @@ File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks23
 \inpenc@posthook=\toks24
-) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/upquote/upquote.sty
-Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
-(c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
 (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks25
-) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count273
-)
-\MT@toks=\toks26
-\MT@tempbox=\box53
-\MT@count=\count274
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
-LaTeX Info: Redefining \leftprotrusion on input line 1060.
-\MT@prot@toks=\toks27
-LaTeX Info: Redefining \rightprotrusion on input line 1078.
-LaTeX Info: Redefining \textls on input line 1368.
-\MT@outer@kern=\dimen150
-LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count275
-(c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
-LaTeX Info: Redefining \lsstyle on input line 902.
-LaTeX Info: Redefining \lslig on input line 902.
-\MT@outer@space=\skip53
-)
-Package microtype Info: Loading configuration file microtype.cfg.
-(c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
-)) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
-(c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count276
-\Gm@cntv=\count277
-\c@Gm@tempcnt=\count278
-\Gm@bindingoffset=\dimen151
-\Gm@wd@mp=\dimen152
-\Gm@odd@mp=\dimen153
-\Gm@even@mp=\dimen154
-\Gm@layoutwidth=\dimen155
-\Gm@layoutheight=\dimen156
-\Gm@layouthoffset=\dimen157
-\Gm@layoutvoffset=\dimen158
-\Gm@dimlist=\toks28
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks26
 ) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
@@ -190,36 +160,39 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 ) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
+)) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count278
+)) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box54
-\beforetitleunit=\skip54
-\aftertitleunit=\skip55
-\ttl@plus=\dimen159
-\ttl@minus=\dimen160
-\ttl@toksa=\toks29
-\titlewidth=\dimen161
-\titlewidthlast=\dimen162
-\titlewidthfirst=\dimen163
+\ttl@box=\box53
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
+\ttl@plus=\dimen158
+\ttl@minus=\dimen159
+\ttl@toksa=\toks27
+\titlewidth=\dimen160
+\titlewidthlast=\dimen161
+\titlewidthfirst=\dimen162
 ) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex)) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip56
-\f@nch@O@elh=\skip57
-\f@nch@O@erh=\skip58
-\f@nch@O@olh=\skip59
-\f@nch@O@orh=\skip60
-\f@nch@O@elf=\skip61
-\f@nch@O@erf=\skip62
-\f@nch@O@olf=\skip63
-\f@nch@O@orf=\skip64
+Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip55
+\f@nch@O@elh=\skip56
+\f@nch@O@erh=\skip57
+\f@nch@O@olh=\skip58
+\f@nch@O@orh=\skip59
+\f@nch@O@elf=\skip60
+\f@nch@O@erf=\skip61
+\f@nch@O@olf=\skip62
+\f@nch@O@orf=\skip63
 ) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
-Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
+Package: lastpage 2024/04/27 v2.1a lastpage: 2.09 or 2e? (HMM)
 (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
-Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (HMM)
+Package: lastpage2e 2024/04/27 v2.1a Decide which 2e lastpage version to use (HMM)
 (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
-Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
+Package: lastpagemodern 2024-04-27 v2.1a Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count279
 ) 
 )) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
@@ -249,7 +222,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count280
 )
-\@linkdim=\dimen164
+\@linkdim=\dimen163
 \Hy@linkcounter=\count281
 \Hy@pagecounter=\count282
 (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
@@ -278,15 +251,15 @@ Package hyperref Info: Bookmarks ON on input line 4446.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4784.
-\XeTeXLinkMargin=\dimen165
+\XeTeXLinkMargin=\dimen164
 (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count285
-\Field@Width=\dimen166
-\Fld@charsize=\dimen167
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
 Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
@@ -318,7 +291,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip65
+\Hy@SectionHShift=\skip64
 )
 Package hyperref Info: Option `unicode' set `true' on input line 95.
 Package hyperref Info: Option `colorlinks' set `true' on input line 95.
@@ -336,8 +309,8 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 ) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks30
-\XKV@tempa@toks=\toks31
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
 )
 \XKV@depth=\count291
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -376,12 +349,12 @@ Package datetime Info: No datetime.cfg file found, using default settings on inp
 \dayofyear=\count315
 \dayofweek=\count316
 LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks32
-\dt@b=\toks33
+\dt@a=\toks30
+\dt@b=\toks31
 ) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count317
-\l__pdf_internal_box=\box55
+\l__pdf_internal_box=\box54
 )
 
 LaTeX Warning: Unused global option(s):
@@ -408,25 +381,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
 LaTeX Font Info:    ... okay on input line 104.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 104.
 LaTeX Font Info:    ... okay on input line 104.
-LaTeX Info: Redefining \microtypecontext on input line 104.
-Package microtype Info: Applying patch `item' on input line 104.
-Package microtype Info: Applying patch `toc' on input line 104.
-Package microtype Info: Applying patch `eqnum' on input line 104.
-Package microtype Info: Applying patch `footnote' on input line 104.
-Package microtype Info: Applying patch `verbatim' on input line 104.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using protrusion set `basicmath'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 104.
-Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: No adjustment of character kerning.
-(c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-ppl.cfg
-File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
-)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -468,7 +422,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx))
@@ -514,47 +468,41 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 10.42007pt on input line 120.
-(c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 7.91925pt on input line 120.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 120.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 10.42007pt on input line 120.
-(c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.91925pt on input line 120.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 120.
 [1
 
-{c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] 
+{c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] [3] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./CV_KoechAndrew.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+L3 programming layer <2024-04-11>
  ***********
 Package rerunfilecheck Info: File `CV_KoechAndrew.out' has not changed.
 (rerunfilecheck)             Checksum: 1DE60F0E194FC1FD8802558387AE4E60;929.
  ) 
 Here is how much of TeX's memory you used:
- 15445 strings out of 476138
- 241771 string characters out of 5791364
- 1942978 words of memory out of 5000000
- 36965 multiletter control sequences out of 15000+600000
- 603119 words of font info for 233 fonts, out of 8000000 for 9000
+ 13320 strings out of 476010
+ 204942 string characters out of 5789932
+ 1943754 words of memory out of 5000000
+ 35255 multiletter control sequences out of 15000+600000
+ 594142 words of font info for 92 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,11n,79p,1203b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,79p,1203b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb><c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/akoec/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_KoechAndrew.pdf (2 pages, 107572 bytes).
+Output written on CV_KoechAndrew.pdf (3 pages, 108670 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 25 named destinations out of 1000 (max. 500000)
- 67649 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
