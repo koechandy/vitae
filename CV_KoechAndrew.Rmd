@@ -42,7 +42,7 @@ library(vitae)
 
   + **M.Sc** in Medical Biometry/Biostatistics \hfill Oct. 2022 - Ongoing
 
-      + “A spatial analysis of local and temporal associations between area-level socio-economic factors and antibiotic prescription rates in Germany” \hfill Ongoing
+      + “A spatial analysis of local and temporal associations between area-level socio-economic factors and antibiotic prescription rates in Germany”
   
 *Jomo Kenyatta University of Agriculture and Technology* \hfill _Nairobi, Kenya_
 
